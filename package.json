@@ -3,12 +3,12 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://Jackshithubaccoun.github.io/jreader",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
-  "homepage": "https://Jackshithubaccoun.github.io/jreader"
   },
   "dependencies": {
     "epubjs": "^0.3.93",
